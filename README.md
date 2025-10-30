@@ -1,4 +1,6 @@
 Parkinson’s Disease Prediction Using Speech Data
+
+
 📘 Overview
 
 Parkinson’s Disease (PD) is a progressive neurological disorder that affects movement, coordination, and speech. It often leads to symptoms such as tremors, muscle stiffness, slowness of movement, difficulty speaking, and mental health challenges.
